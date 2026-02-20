@@ -6,3 +6,4 @@ Progresif:
 - <b>~Profile github~ </b>[🚩 DONE]
 - <b>~Setup linux mint~ </b>[🚩 DONE]
 - <b>Notepad mogu (MOGU.PAD)</b>
+- <b>T~odo-CLI~ </b>[🚩 DONE]
