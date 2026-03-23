@@ -1,53 +1,43 @@
 # Hi, I'm Mogu 👋
 
-Frontend Engineer with a growing Python background.
-
-I focus on building clean, responsive, and interactive web experiences while continuously improving my backend and automation skills with Python.
+Frontend Engineer. Building clean, interactive web experiences — with Python growing in the background.
 
 ---
 
-## 💼 About Me
-
-- 💻 Strong in Frontend Development (HTML, CSS, JavaScript)
-- 🐍 Expanding into Python (CLI tools & automation)
-- 🎯 Interested in UI architecture & interactive experiences
-- 🛠 Comfortable with Git, Linux, and CLI workflows
-- 📈 Focused on consistent growth and clean code practices
-
----
-
-## 🛠 Tech Stack
+## 🛠 Stack
 
 **Frontend**
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Python**
-- CLI applications
-- File handling & automation basics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI_tools-3776AB?style=flat-square&logo=windowsterminal&logoColor=white)
 
 **Tools**
-- Git & GitHub
-- Linux (Mint / Termux)
-- VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📌 Selected Projects
+## 📌 Projects
 
-### 🌌 Portfolio Website
-Interactive portfolio with smooth scroll & 3D background.
+**Portfolio Website** — Interactive portfolio with smooth scroll & 3D background.
+🔗 [risky-porto.vercel.app](https://risky-porto.vercel.app/)
 
-### 🕹 Python CLI Projects
-- Todo CLI App  
-- Terminal-based mini RPG  
+**Todo CLI App** — Terminal-based task manager built with Python.
+
+**Terminal RPG** — Mini text-based RPG running entirely in the terminal.
 
 ---
 
 ## 📫 Connect
 
-GitHub: https://github.com/Mogu2709
+[![GitHub](https://img.shields.io/badge/GitHub-Mogu2709-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mogu2709)
+[![Portfolio](https://img.shields.io/badge/Portfolio-risky--porto.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://risky-porto.vercel.app/)
 
 ---
 
